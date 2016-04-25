@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Custom Gallery feature.
+ */
+
+include_once 'custom_gallery.features.inc';
